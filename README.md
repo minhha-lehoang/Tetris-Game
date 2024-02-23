@@ -1,4 +1,4 @@
-# Tetris game in C++ using SDL2 
+# Neumorphism Tetris game in C++ using SDL2 
 *(SDL.h, SDL_image.h, SDL_ttf.h, SDL_mixer.h)*
 ![image](https://user-images.githubusercontent.com/40814521/169949095-2858bc9a-4d85-46a5-8bfa-081826770d53.png)
 
